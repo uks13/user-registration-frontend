@@ -1,4 +1,4 @@
-import{j as e}from"./6bcc7105c4fa9cc0.js";const x=({label:r,error:s,onChange:o,containerClassName:d="",className:a="",type:n="text",id:c,required:i,...l})=>{const t=c||(r?`input-${r.toLowerCase().replace(/\s+/g,"-")}`:void 0),m=`
+import{j as e}from"./a2daa578de06f15c.js";const x=({label:r,error:s,onChange:o,containerClassName:d="",className:a="",type:n="text",id:c,required:i,...l})=>{const t=c||(r?`input-${r.toLowerCase().replace(/\s+/g,"-")}`:void 0),m=`
     w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 transition-colors
     ${s?"border-red-500 focus:ring-red-500 focus:border-red-500":"border-gray-300 focus:ring-primary-500 focus:border-primary-500"}
     ${a}
