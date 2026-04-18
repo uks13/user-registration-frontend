@@ -1,0 +1,1 @@
+function r(e){if(!e)return"N/A";try{const t=new Date(e);return isNaN(t.getTime())?"N/A":new Intl.DateTimeFormat("en-US",{year:"numeric",month:"long",day:"numeric"}).format(t)}catch{return"N/A"}}export{r as f};
