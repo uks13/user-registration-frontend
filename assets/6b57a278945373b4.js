@@ -1,0 +1,1 @@
+import{r as e,f as n,d,v as w,e as P}from"./366833fc8ebdb140.js";const l=()=>{const a=e.useCallback(s=>n(s),[]),r=e.useCallback((s,o)=>d(s,o),[]),t=e.useCallback(s=>w(s),[]),c=e.useCallback((s,o)=>P(s,o),[]);return e.useMemo(()=>({forgotPassword:a,resetPassword:r,verifyResetToken:t,changePassword:c}),[a,r,t,c])};export{l as u};
